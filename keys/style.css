@@ -1,0 +1,21 @@
+td {
+    background-color: black;
+    color: cornsilk;
+    border:2px solid rgb(45, 46, 43);
+    border-radius: 4%;
+    text-align: center;
+}
+table{
+    border:2px solid rgb(45, 46, 43);
+    border-radius: 2%;
+    height: 300px;
+    width: 100%;
+    
+
+}
+.tab{
+    text-align: left;
+}
+.backspace{
+    text-align: right;
+}
