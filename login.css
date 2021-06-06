@@ -1,0 +1,79 @@
+*{
+    background-color: rgb(239, 244, 247);
+    position: relative;
+    
+}
+
+.login{
+    text-align: center;
+    border: 1px solid rgb(179, 166, 166);
+    width: 30%;
+    margin-left: 450px;
+    background-color: #fff;
+    padding-bottom: 30px;
+    position: absolute;
+}
+.pics{
+    background-color: #fff;
+}
+.logo{
+    color: black;
+    font-size: xxx-large;
+    font-weight: 800;
+    font-style: normal;
+    background-color: #ffff;
+}
+
+.login form{
+    background-color: #fff;
+    padding-top: 20px;
+}
+
+.login input[ type="text"]{
+    background-color: #fff;
+}
+.remember2{
+    background-color: #fff;
+}
+
+.case{
+    background-color: green;
+    text-align: center;
+    width: 50%;
+    height: 30px;
+    border-radius: 5%;
+    border: none;
+    color: rgb(224, 217, 217)
+    
+    
+}
+.create{
+    color: green;
+    background-color: #fff;
+}
+.cont{
+    text-align: center;
+    color: rgb(116, 111, 111);
+    width: 70%;
+    height: 30px;
+    border-radius: 5%;
+    
+}
+.remember{
+    font-weight: 600;
+    background-color: #fff;
+}
+.username{
+    color: rgb(116, 111, 111);
+    width: 70%;
+    height: 30px;
+    border-radius: 5%;
+    text-align: center;
+}
+.bridge{
+    color: rgb(68, 67, 67);
+    background-color: #fff;
+}
+.dont{
+    background-color: #fff;
+}

@@ -1,0 +1,16 @@
+*{
+    background-color: black;
+}
+td{
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(46, 43, 43);
+    border-radius: 4%;
+    text-align: center;
+}
+table{
+    border: 2px solid rgb(44, 41, 41);
+    border-radius: 2%;
+    height: 300px;
+    width: 100%;
+}
