@@ -41,12 +41,12 @@
     text-align: center;
     width: 50%;
     height: 30px;
-    border-radius: 5%;
+    border-radius: 2%;
     border: none;
-    color: rgb(224, 217, 217)
-    
-    
+    color: #fff;
 }
+    
+
 .create{
     color: green;
     background-color: #fff;
